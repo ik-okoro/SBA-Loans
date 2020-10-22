@@ -21,6 +21,7 @@ seaborn = "*"
 xgboost = "*"
 ipywidgets = "*"
 pandas-profiling = "*"
+category-encoders = "*"
 
 [requires]
 python_version = "3.8"
