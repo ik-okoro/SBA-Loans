@@ -16,6 +16,11 @@ sweetviz = "*"
 joblib = "*"
 wget = "*"
 notebook = "*"
+uszipcode = "*"
+seaborn = "*"
+xgboost = "*"
+ipywidgets = "*"
+pandas-profiling = "*"
 
 [requires]
 python_version = "3.8"
